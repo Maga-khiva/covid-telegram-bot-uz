@@ -1,0 +1,16 @@
+{
+  "name": "first-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot with telegraf ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Maga",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "telegraf": "^3.38.0"
+  }
+}
